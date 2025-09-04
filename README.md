@@ -22,6 +22,6 @@ This repo contains a cleaned notebook to demo the PDF Fill Service without any e
    ```
 
 ## Run on Colab
-Open Colab and use: `https://colab.research.google.com/github/USER/REPO/blob/BRANCH/pdf_app_documentation_clean.ipynb`
+Open Colab and use: `https://mybinder.org/v2/gh/irbster01/pdf-app-demo/main?filepath=pdf_app_documentation_clean.ipynb`
 
 Security: DO NOT commit tokens or .env files to the repo.
