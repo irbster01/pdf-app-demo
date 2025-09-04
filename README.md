@@ -18,7 +18,7 @@ This repo contains a cleaned notebook to demo the PDF Fill Service without any e
 1. Push this repo to a **public** GitHub repo.
 2. Add this badge to README replacing USER/REPO/BRANCH:
    ```markdown
-   [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/USER/REPO/BRANCH?filepath=pdf_app_documentation_clean.ipynb)
+   [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/irbster01/pdf-app-demo/main?filepath=pdf_app_documentation_clean.ipynb)
    ```
 
 ## Run on Colab
