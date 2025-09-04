@@ -1,0 +1,5 @@
+.ipynb_checkpoints/
+.env
+test_output.pdf
+__pycache__/
+*.pyc
